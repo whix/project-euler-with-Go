@@ -29,3 +29,8 @@ func main() {
 	}
 	println(len(mymap))
 }
+
+/*
+[ `go run main.go` | done: 361.113753ms ]
+	9183
+*/
